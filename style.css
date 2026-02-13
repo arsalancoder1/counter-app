@@ -1,0 +1,64 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1681119147130-973dbdfa3a7c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDMxfHx8ZW58MHx8fHx8");
+    background-size: cover;
+    height: 100vh;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+
+}
+
+.container{
+    background: rgb(208, 208, 208);
+    max-width: 80%;
+    margin: auto; 
+    border: 3px solid black;
+    border-radius: 10px;
+}   
+
+h1 {
+    color: #000000;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 900;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 80px
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    font-size: 70px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    padding-top: 2px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #030303;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+
+#save-el{
+    color: rgba(255, 0, 0, 0.923);
+}
+
+#increment-btn {
+    background: #3D45AA;
+}
+
+#save-btn { 
+    background: #3D45AA;
+}
+
